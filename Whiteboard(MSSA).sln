@@ -27,6 +27,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swap", "Swap\Swap.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortArray1", "SortArray1\SortArray1.csproj", "{0F970EB2-1115-42F8-B88B-269F074DD6DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleTimeOfDay", "AngleTimeOfDay\AngleTimeOfDay.csproj", "{4DCA7212-9B4D-4E29-ACA4-C6D0C224FA07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleTimeUnitTest", "AngleTimeUnitTest\AngleTimeUnitTest.csproj", "{1902D652-5E1E-4534-9A14-81F2DCA53D40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{0F970EB2-1115-42F8-B88B-269F074DD6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F970EB2-1115-42F8-B88B-269F074DD6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F970EB2-1115-42F8-B88B-269F074DD6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCA7212-9B4D-4E29-ACA4-C6D0C224FA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCA7212-9B4D-4E29-ACA4-C6D0C224FA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCA7212-9B4D-4E29-ACA4-C6D0C224FA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCA7212-9B4D-4E29-ACA4-C6D0C224FA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1902D652-5E1E-4534-9A14-81F2DCA53D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1902D652-5E1E-4534-9A14-81F2DCA53D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1902D652-5E1E-4534-9A14-81F2DCA53D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1902D652-5E1E-4534-9A14-81F2DCA53D40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

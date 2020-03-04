@@ -4,7 +4,7 @@
 
 namespace SortArray1
 {
-    public class Class1
+    public class ArraySort
     {
         public static int[] Sort(int[] arr)
         {
