@@ -53,7 +53,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountUpperCaseLetters", "Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountUpperCaseLettersTest", "CountUpperCaseLettersTest\CountUpperCaseLettersTest.csproj", "{687FB779-0E7C-4E01-B856-B06ACF9C953A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawTriangle", "DrawTriangle\DrawTriangle.csproj", "{84557BB4-6EB5-4209-9052-3D19D63EF7B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrawTriangle", "DrawTriangle\DrawTriangle.csproj", "{84557BB4-6EB5-4209-9052-3D19D63EF7B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EAFDB7E0-6E8C-4E8D-A3AE-6D4208167FA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInt", "ReverseInt\ReverseInt.csproj", "{9BB0DCFB-54EC-4BE4-B5D7-3A53CCF4C462}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,14 @@ Global
 		{84557BB4-6EB5-4209-9052-3D19D63EF7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84557BB4-6EB5-4209-9052-3D19D63EF7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84557BB4-6EB5-4209-9052-3D19D63EF7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFDB7E0-6E8C-4E8D-A3AE-6D4208167FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFDB7E0-6E8C-4E8D-A3AE-6D4208167FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFDB7E0-6E8C-4E8D-A3AE-6D4208167FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFDB7E0-6E8C-4E8D-A3AE-6D4208167FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB0DCFB-54EC-4BE4-B5D7-3A53CCF4C462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB0DCFB-54EC-4BE4-B5D7-3A53CCF4C462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB0DCFB-54EC-4BE4-B5D7-3A53CCF4C462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB0DCFB-54EC-4BE4-B5D7-3A53CCF4C462}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

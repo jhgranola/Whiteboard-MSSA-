@@ -8,10 +8,10 @@ namespace PrimeCounter
     class Program
     {
         // First, I will need to create a method to determine whether or not the numbers being encountered are primes.
-        public static bool isPrime(int num)
+        public static bool IsPrime(int num)
         {
             if (num < 2) return false; // This if statement refutes the number 1.
-            for (int i = 2; i < num; ++i) // I am using a for loop to evaluate each number given to it.
+            for (int i = 2; i < num/2; ++i) // I am using a for loop to evaluate each number given to it. Only go halfway up in order to improve efficiency.
             {
                 if (num % i == 0) return false; // I am diving things by 2, if there is no remainder, then the number is not a prime.
             }
@@ -22,7 +22,7 @@ namespace PrimeCounter
             int primeSum = 0, counter = 0, numberOfPrimes = 0;
             while (numberOfPrimes < n) // This loop ensures that I sum the number of primes given.
             {
-                if (isPrime(counter)) // This uses the method I created above.
+                if (IsPrime(counter)) // This uses the method I created above.
                 {
                     primeSum += counter;
                     numberOfPrimes++; // If the counter reaches a prime, it is added to the number of primes, as well as the sum.
