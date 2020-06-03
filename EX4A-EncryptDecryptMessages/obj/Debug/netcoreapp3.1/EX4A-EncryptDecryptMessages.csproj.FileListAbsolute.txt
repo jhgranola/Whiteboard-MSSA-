@@ -1,0 +1,13 @@
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\bin\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.exe
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\bin\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.deps.json
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\bin\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.runtimeconfig.json
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\bin\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\bin\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.dll
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\bin\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.pdb
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\obj\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\obj\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\obj\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\obj\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\obj\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.dll
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\obj\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.pdb
+C:\Users\Jeremy\source\repos\MSSA\EX4A-EncryptDecryptMessages\obj\Debug\netcoreapp3.1\EX4A-EncryptDecryptMessages.genruntimeconfig.cache

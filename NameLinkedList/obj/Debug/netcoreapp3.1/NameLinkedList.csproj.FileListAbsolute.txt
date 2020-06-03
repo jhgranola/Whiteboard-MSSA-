@@ -1,0 +1,12 @@
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\bin\Debug\netcoreapp3.1\NameLinkedList.exe
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\bin\Debug\netcoreapp3.1\NameLinkedList.deps.json
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\bin\Debug\netcoreapp3.1\NameLinkedList.runtimeconfig.json
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\bin\Debug\netcoreapp3.1\NameLinkedList.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\bin\Debug\netcoreapp3.1\NameLinkedList.dll
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\bin\Debug\netcoreapp3.1\NameLinkedList.pdb
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\obj\Debug\netcoreapp3.1\NameLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\obj\Debug\netcoreapp3.1\NameLinkedList.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\obj\Debug\netcoreapp3.1\NameLinkedList.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\obj\Debug\netcoreapp3.1\NameLinkedList.dll
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\obj\Debug\netcoreapp3.1\NameLinkedList.pdb
+C:\Users\Jeremy\source\repos\MSSA\NameLinkedList\obj\Debug\netcoreapp3.1\NameLinkedList.genruntimeconfig.cache
